@@ -14,3 +14,8 @@
 - Model Interpretation
 - Model Governance
 - Stakeholder Communication
+
+
+</br>
+</br>
+<img width="1200" heigth="800" alt="dashboard1" src="https://github.com/UGURSELIMOZEN/Data_Glacier_DS_Internship/blob/main/Ugur%20Selim%20Ozen_completion_letter.jpg">
